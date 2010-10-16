@@ -26,6 +26,7 @@
         <dbTableDirectory>
           <dbTableFile dbTableName="Comentario"/>
         </dbTableDirectory>
+        <modelFile modelName="Teste"/>
       </modelsDirectory>
       <modulesDirectory enabled="false"/>
       <viewsDirectory>
